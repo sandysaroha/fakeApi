@@ -1,16 +1,18 @@
-[
-    {
-        "id":1,
-        "create_date":"10-10-1986",
-        "title":"Idea 1",
-        "content": "Idea details goes here",
-        "state": "Done"
-      },
-      {
-        "id":2,
-        "create_date":"10-10-1986",
-        "title":"Idea 2",
-        "content": "Idea details goes here",
-        "state": "WIP"
-      }
-]
+{
+    "ideas": [
+        {
+            "id":1,
+            "create_date":"10-10-1986",
+            "title":"Idea 1",
+            "content": "Idea details goes here",
+            "state": "Done"
+          },
+          {
+            "id":2,
+            "create_date":"10-10-1986",
+            "title":"Idea 2",
+            "content": "Idea details goes here",
+            "state": "WIP"
+          }
+    ]
+}
