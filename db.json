@@ -2,15 +2,22 @@
     "ideas": [
         {
             "id":1,
-            "create_date":"10-10-1986",
+            "create_date":"28-05-2019",
             "title":"Idea 1",
             "content": "Idea details goes here",
             "state": "Done"
           },
           {
             "id":2,
-            "create_date":"10-10-1986",
+            "create_date":"28-05-2019",
             "title":"Idea 2",
+            "content": "Idea details goes here",
+            "state": "WIP"
+          },
+          {
+            "id":3,
+            "create_date":"28-05-2019",
+            "title":"Idea 3",
             "content": "Idea details goes here",
             "state": "WIP"
           }
